@@ -45,7 +45,8 @@ public class TestLambda1 {
 			new Employee(104, "赵六", 8, 7777.77),
 			new Employee(105, "田七", 38, 5555.55),
 			new Employee(106,"敏敏",40,8585),
-			new Employee(106,"武技",40,8585)
+			new Employee(106,"武技",40,8585),
+			new Employee(106,"武技1231",40,8585)
 	);
 
 	//需求：获取公司中年龄小于 35 的员工信息
